@@ -1,0 +1,11 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body{
+    background: white;
+}
+
+#excuse{
+    justify-content: space-between;
+    text-align: center;
+    
+}
